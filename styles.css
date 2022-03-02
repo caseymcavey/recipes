@@ -1,0 +1,41 @@
+p, h1, h2, h3, li, blockquote {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a:link {
+  text-decoration: none;
+  color:black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color:black;
+}
+
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+
+#header {
+  position: fixed;
+  top: 0;
+  background-color: #ffffff;
+  opacity: 90%;
+}
+
+#content {
+  margin-top: 115px;
+}
+
+img:hover {
+  opacity: 80%;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  font-style: italic;
+}
