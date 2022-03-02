@@ -1,4 +1,4 @@
-p, h1, h2, h3, li, blockquote {
+#header, body {
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -38,4 +38,8 @@ h2 {
 
 h3 {
   font-style: italic;
+}
+
+.recipes {
+  font-weight: bold;
 }
